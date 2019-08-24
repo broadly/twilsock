@@ -10,7 +10,6 @@
   "scripts": {
     "test": "gulp unit-test",
     "integration": "gulp integration-test",
-    "prepare": "gulp build",
     "test-node": "node server-node.js"
   },
   "author": "Twilio",
