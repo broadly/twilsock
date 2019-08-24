@@ -1,6 +1,6 @@
 {
   "name": "twilsock",
-  "version": "0.5.10",
+  "version": "0.5.11",
   "description": "Client library for TwilSock service",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
